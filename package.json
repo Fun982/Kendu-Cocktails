@@ -1,0 +1,23 @@
+{
+  "name": "kendu_cocktails_git_ready-(3)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fun982/Kendu-Cocktails.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fun982/Kendu-Cocktails/issues"
+  },
+  "homepage": "https://github.com/Fun982/Kendu-Cocktails#readme",
+  "description": "",
+  "dependencies": {
+    "openai": "^5.7.0"
+  }
+}
