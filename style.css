@@ -1,0 +1,27 @@
+body {
+  background: black;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
+.cocktail {
+  border: 2px solid deeppink;
+  padding: 20px;
+  margin: 20px auto;
+  width: 300px;
+}
+.chatbox {
+  background: #333;
+  padding: 20px;
+  margin: 20px auto;
+  width: 300px;
+}
+input {
+  width: 200px;
+}
+button {
+  background: deeppink;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+}
